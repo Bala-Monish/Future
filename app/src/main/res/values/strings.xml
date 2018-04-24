@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Futurewear</string>
+    <string name="facebook_app_id">155639101781004</string>
+    <string name="fb_login_protocol_scheme">fb155639101781004</string>
+    <string name="title_activity_existlogin">Existlogin</string>
+    <string-array name="socialimpact">
+        <item>Fair Trade Sourcing</item>
+        <item>Fair Wages</item>
+        <item>Gender Equal Hiring</item>
+        <item>Gives Back To Charity</item>
+        <item>Local Production</item>
+    </string-array>
+    <string-array name="environmentalimpact">
+        <item>Biodegradable products</item>
+        <item>Carbon natrual</item>
+        <item>Energy Saving Practices</item>
+        <item>Organic Materials</item>
+        <item>Recycled materials</item>
+    </string-array>
+    <string-array name="certifications">
+        <item>B Corporation</item>
+        <item>Fair Trade USA</item>
+        <item>Fairtrade International</item>
+        <item>WRAP</item>
+        <item>GOTS</item>
+    </string-array>
+    <string-array name="category">
+        <item>socialimpact</item>
+        <item>environmentalimpact</item>
+        <item>certifications</item>
+    </string-array>
+
+</resources>
